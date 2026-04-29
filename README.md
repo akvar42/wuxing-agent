@@ -1,8 +1,3 @@
-🎯 Voici un **README.md** complet, structuré et prêt à coller à la racine de ton projet :
-
----
-
-```markdown
 # 🌀 Wu Xing Agents
 
 > Système multi-agents événementiel inspiré du cycle des **Cinq Éléments** chinois (五行).  
